@@ -3,4 +3,5 @@ site_url: https://iut-serivces-docs.com/
 nav:
   - Home: introduction.md
   - Répertoire : directory.md
+  - Connexion: login.md
 theme: readthedocs
