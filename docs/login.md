@@ -11,4 +11,4 @@ Localisez la section de connexion. Vous y trouverez deux champs obligatoires:
 
 En fonction de votre expérience, vous pourriez rencontrer des options telles que 
 
-![Alt text](images/image.png)
+![Alt text](img/page_login.png)
