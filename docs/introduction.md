@@ -1,14 +1,14 @@
-# **1. Introduction**
+# **Introduction**
 
 - Ce manuel utilisateur a été rédigé par des étudiants en troisième année du programme BUT Informatique à l'IUT de Calais. Il a été conçu pour aider les utilisateurs à naviguer sur l'application en leur fournissant des instructions claires et concises.
 
-## 1.1 Objectif de l'application
+## Objectif de l'application
 
 - Le but de développer un logiciel pour aider à la gestion de services des enseignants de BUT Informatique. 
 
 - Ce logiciel permet de gérer plus efficacement les services des professeurs en fournissant une plateforme centralisée pour organiser les heures de cours et leur attribuer.
 
-## 1.2 Se rendre sur l'application
+## Se rendre sur l'application
 
 - Pour se rendre sur l’application, saisir dans la barre d'adresses sur n’importe quel navigateur internet L’URL de l’application : URL_DE_L’APP
     Appuyez sur "Entrez" pour accéder à la page de connexion.
