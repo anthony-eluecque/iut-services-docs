@@ -1,6 +1,6 @@
 site_name: Iut Services Docs
 site_url: https://iut-serivces-docs.com/
 nav:
-  - Home: index.md
+  - Home: introduction.md
   - Répertoire : directory.md
 theme: readthedocs
