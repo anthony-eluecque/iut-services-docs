@@ -10,9 +10,9 @@ Dans la partie "Leçons", il est possible de visualiser les leçons dans un tabl
 
 La seconde partie consiste à pouvoir visualiser les différents enseignants. Cette partie est semblable à celle des leçons. Cependant, il est possible d’ajouter directement un enseignant depuis cette page.
 !!! note "Étapes à suivre"
-- Cliquez sur le bouton **Ajouter un enseignant**.
-- Remplissez les différentes lignes d'information pour l’enseignant.
-- Cliquez sur **Annuler** pour annuler l’enregistrement ou sur **Ajouter** pour valider la saisie.
+    - Cliquez sur le bouton **Ajouter un enseignant**.
+    - Remplissez les différentes lignes d'information pour l’enseignant.
+    - Cliquez sur **Annuler** pour annuler l’enregistrement ou sur **Ajouter** pour valider la saisie.
 
 
 Vous pouvez également supprimer et modifier le professeur en cliquant sur les boutons respectifs au sein de la carte de l’enseignant.
