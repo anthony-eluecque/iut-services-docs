@@ -15,8 +15,3 @@
 
 - Pour le bon fonctionnement de l’application, assurez-vous bien d'avoir une connexion Internet stable avant de vous connecter à l'application.
 
-### 1.3 En cas de problèmes...
-
-- Nous sommes engagés à vous offrir une assistance rapide et efficace pour garantir une expérience utilisateur optimale. Votre satisfaction est notre priorité, et notre équipe d'assistance est là pour vous accompagner à chaque étape.
-
-
