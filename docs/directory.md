@@ -4,7 +4,7 @@ La page Répertoire offre une vue complète et organisée de tous les cours et e
 
 
 Vous pouvez trouver la page Répertoire en cliquant sur le texte “Répertoire” dans la barre de navigation à gauche.
-Dans la partie "Leçons", il est possible de visualiser les leçons dans un tableau, de filtrer les données, ou encore de passer à la partie professeur. Pour plus d’indications, vous pouvez vous référer à l’image ci-dessous.
+Dans la partie "Leçons", il est possible de visualiser les leçons dans un tableau, de filtrer les données, ou encore de passer à la partie professeur. Pour plus d’indication, vous pouvez vous référer à l’image ci-dessous.
 
 ![Manuel Utilisateur](img/manuel_utilisateur.png)
 
