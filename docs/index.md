@@ -2,6 +2,14 @@
 
 Pour une documentation plus détaillée, visitez le site [mkdocs.org](https://www.mkdocs.org).
 
+# Membres du projet: 
+
+- ELUECQUE Anthony
+- CUMZAIN Houssam
+- BERNARD Laetitia
+- LE FUR Lucie
+
+
 ## Commandes
 
 * `mkdocs new [dir-name]` - Créer un nouveau projet.
