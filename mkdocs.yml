@@ -6,6 +6,7 @@ nav:
   - Répertoire: directory.md
   - Connexion: login.md
   - Service: service.md
+  - Paramètres : parametre.md
 theme: readthedocs
 markdown_extensions: 
   - admonition
