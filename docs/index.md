@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Bienvenue sur MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Pour une documentation plus détaillée, visitez le site [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Commandes
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `mkdocs new [dir-name]` - Créer un nouveau projet.
+* `mkdocs serve` - Live-reloading la documentation
+* `mkdocs build` - Build la documentation web
+* `mkdocs -h` - Commande d'aide (Help)
 
-## Project layout
+## Structure du projet
 
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml    # Fichier de configuration
     docs/
-        index.md  # The documentation homepage.
-        directory.md # Documentation de la page répertoire
+        index.md  # Documentation technique
+        login.md # Documentation page connection
+        directory.md # Documentation page répertoire
+        parametres.md # Documentation page paramètres
+    
