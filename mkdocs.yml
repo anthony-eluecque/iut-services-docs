@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Iut Services Docs
+site_url: https://iut-serivces-docs.com/
+nav:
+  - Home: index.md
+  - Répertoire : directory.md
+theme: readthedocs
