@@ -25,7 +25,7 @@ La sécurité de votre compte est une priorité. Vous pouvez aisément mettre à
 
 Si vous décidez de ne plus utiliser l’application, la page des paramètres vous offre la possibilité de supprimer votre compte. 
 
-!!! note "Étapes a suivre"s
-    Cliquez sur ==Supprimer mon compte==
-    - Cliquez ensuite sur Oui valider la supprésion
-    - Cliquez Non pour annuler l'action.
+!!! note "Étapes a suivre"
+    Cliquez sur **Supprimer mon compte**
+    - Cliquez ensuite sur **Oui** valider la supprésion
+    - Cliquez **Non** pour annuler l'action.
