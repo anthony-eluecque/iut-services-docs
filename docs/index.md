@@ -22,7 +22,9 @@ Pour une documentation plus détaillée, visitez le site [mkdocs.org](https://ww
     mkdocs.yml    # Fichier de configuration
     docs/
         index.md  # Documentation technique
+        introduction.md # Introduction à la documentation
         login.md # Documentation page connection
         directory.md # Documentation page répertoire
         parametres.md # Documentation page paramètres
+        services.md # Documentation page services
     
