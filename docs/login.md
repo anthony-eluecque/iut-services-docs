@@ -13,8 +13,6 @@ Appuyez ensuite sur le bouton <span class="btn btn-primary btn-sm">Login</span> 
 
 ## Options de connexion
 
-En fonction de votre expérience, vous pourriez rencontrer des options telles que 
-
 !!! note "Note"
     En fonction de votre expérience, vous pourriez rencontrer des options telles que <span style="color:blue">**Mot de passe oublié**</span>. Elle vous guidera à travers le processus de récupération du mot de passe en cas d'oubli. Vous pouvez également rencontrer comme problème <span style="color:red">**Adresse mail ou mot de passe incorrect**</span>. Dans ce cas, votre mot de passe ou adresse mail est invalide. Vérifiez vos informations et réessayez.
 
