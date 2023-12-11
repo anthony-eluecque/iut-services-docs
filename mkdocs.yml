@@ -1,14 +1,9 @@
 site_name: Iut Services Docs
 site_url: https://iut-services-docs.com/
 nav:
-<<<<<<< HEAD
-  - Help: index.md
-  - Home: introduction.md
-=======
   - Team: team.md
   - Home: index.md
   - Répertoire: directory.md
->>>>>>> main
   - Connexion: login.md
   - Services: services.md
   - Répertoire: directory.md
