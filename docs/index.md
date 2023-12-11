@@ -1,28 +1,17 @@
-# Bienvenue sur MkDocs
+# **Introduction**
 
-Pour une documentation plus détaillée, visitez le site [mkdocs.org](https://www.mkdocs.org).
+- Ce manuel utilisateur a été rédigé par des étudiants en troisième année du programme BUT Informatique à l'IUT de Calais. Il a été conçu pour aider les utilisateurs à naviguer sur l'application en leur fournissant des instructions claires et concises.
 
-# Membres du projet: 
+## Objectif de l'application
 
-- ELUECQUE Anthony
-- CUMZAIN Houssam
-- BERNARD Laetitia
-- LE FUR Lucie
+- Le but de développer un logiciel pour aider à la gestion de services des enseignants de BUT Informatique. 
 
+- Ce logiciel permet de gérer plus efficacement les services des professeurs en fournissant une plateforme centralisée pour organiser les heures de cours et leur attribuer.
 
-## Commandes
+## Se rendre sur l'application
 
-* `mkdocs new [dir-name]` - Créer un nouveau projet.
-* `mkdocs serve` - Live-reloading la documentation
-* `mkdocs build` - Build la documentation web
-* `mkdocs -h` - Commande d'aide (Help)
+- Pour se rendre sur l’application, saisir dans la barre d'adresses sur n’importe quel navigateur internet L’URL de l’application : <a src="http://antho_sae.french-heberg.com/login">http://antho_sae.french-heberg.com/login</a>
+Appuyez sur "Entrez" pour accéder à la page de connexion.
 
-## Structure du projet
+- Pour le bon fonctionnement de l’application, assurez-vous bien d'avoir une connexion Internet stable avant de vous connecter à l'application.
 
-    mkdocs.yml    # Fichier de configuration
-    docs/
-        index.md  # Documentation technique
-        login.md # Documentation page connection
-        directory.md # Documentation page répertoire
-        parametres.md # Documentation page paramètres
-    
