@@ -16,19 +16,19 @@ _Photo 2: Page Service_
 ![Filtrage](img/filtrage.png)
 _Photo 3: Page Service_
 
-## Changer l'année universitaire :
+## Changer l'année universitaire 
 
 - Si vous voulez voir vos services pour une année universitaire différente, vous pouvez facilement changer l'année. Il vous suffit de cliquer sur la flèche à côté de l'année en cours pour faire apparaître une liste déroulante des années disponibles. Sélectionnez l'année souhaitée en cliquant dessus.
 
-## Liste des services :
+## Liste des services 
 
 - Sur cette page, vous pouvez voir tous les enseignements précédemment créés de l'année choisie.
 
-## Pagination :
+## Pagination 
 
 - La pagination est essentielle pour naviguer correctement sur l’application. En effet, la pagination permet de diviser la liste des services en différentes pages afin de faciliter une meilleure utilisation. Pour naviguer dans la liste des services, cliquez sur les différents chiffres pour aller d’une page à l’autre.
 
-## Ajouter un enseignement :
+## Ajouter un enseignement 
 
 - Il est possible d'ajouter un enseignement (un service) à la liste des services pour l'année choisie. Cela va ouvrir un formulaire dans le tableau afin que l'utilisateur puisse remplir tous les éléments d'un enseignement.
 
