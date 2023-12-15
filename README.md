@@ -20,6 +20,6 @@ La documentation est organisée de la manière suivante :
 Follow steps :
 
 ```bash
-  pip install mkdocs
+  pip install mkdocs mkdocs-with-pdf
   mkdocs serve
 ```****
