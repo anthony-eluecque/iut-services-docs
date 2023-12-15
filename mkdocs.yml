@@ -11,3 +11,10 @@ nav:
 theme: readthedocs
 markdown_extensions: 
   - admonition
+plugins:
+  - search
+  - with-pdf:
+      cover_title: "Iut Services"
+      cover_subtitle: "Documentation du projet Iut Services"
+      author: "Anthony ELUECQUE, Lucie LE FUR, Laetitïa BERNARD, Houssam CUMZAIN"
+      copyright: "2023"
